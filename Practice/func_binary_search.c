@@ -13,7 +13,7 @@ int binary_search(int arr[], int k, int sz);
 int main()
 {
     int arr[] = {1,2,3,4,5,6,7,8,9,10};
-    int k = 7;//查找目标是7
+    int k = 0;
     printf("请输入查找的值\n>: ");
     scanf("%d", &k);
     int sz = sizeof(arr)/sizeof(arr[0]);//求数组大小
