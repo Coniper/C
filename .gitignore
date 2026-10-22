@@ -1,0 +1,12 @@
+# Compiled local binaries and object files
+a.out
+*.exe
+*.o
+*.obj
+*.out
+build/
+
+# Temporary/editor files
+*.swp
+*~
+.DS_Store
